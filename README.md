@@ -1,4 +1,4 @@
-# #Molecular-Bioactivity-Analysis-for-Toxoplasma-gondii
+# Molecular-Bioactivity-Analysis-for-Toxoplasma-gondii
 This repository contains a Python script for performing a comprehensive analysis of the molecular bioactivity of compounds targeting Toxoplasma gondii.
 
 Molecular Bioactivity Analysis for Toxoplasma gondii
